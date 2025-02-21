@@ -1,1 +1,5 @@
 this is devops lecture
+there are three states
+1)Modify state
+2)Stage state
+3)Commit state
