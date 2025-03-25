@@ -1,3 +1,4 @@
+this is FORK Operation
 this is devops lecture
 there are three states
 1)Modify state
